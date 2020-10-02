@@ -78,7 +78,7 @@ function kalikan(num1, num2){
             "ada bijinya": "Tidak",
             harga : 5000 }]
 
-console.log(Buah[0]);
+ console.log(Buah[0]);
   
 
 
