@@ -55,6 +55,6 @@ console.log( ar );
 
 var daftarBuah = ["2. Apel", "5. Jeruk", "3. Anggur", "4. Semangka", "1. Mangga"];
 var x = daftarBuah.sort();
-for (i = 0; i < x.length; i++){
+for (i = 0; i <= x.length; i++){
   console.log(x[i]);
 }
